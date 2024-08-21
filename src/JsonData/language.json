@@ -1,0 +1,182 @@
+[
+  {
+    "columnCode": 1,
+    "columnName": "Tamil",
+    "responseType": "Language Data"
+  },
+  {
+    "columnCode": 2,
+    "columnName": "English",
+    "responseType": "Language Data"
+  },
+  {
+    "columnCode": 3,
+    "columnName": "Telugu",
+    "responseType": "Language Data"
+  },
+  {
+    "columnCode": 4,
+    "columnName": "Malayalam",
+    "responseType": "Language Data"
+  },
+  {
+    "columnCode": 5,
+    "columnName": "Hindi",
+    "responseType": "Language Data"
+  },
+  {
+    "columnCode": 6,
+    "columnName": "Arabic",
+    "responseType": "Language Data"
+  },
+  {
+    "columnCode": 7,
+    "columnName": "Spanish",
+    "responseType": "Language Data"
+  },
+  {
+    "columnCode": 8,
+    "columnName": "Bengali",
+    "responseType": "Language Data"
+  },
+  {
+    "columnCode": 9,
+    "columnName": "Russian",
+    "responseType": "Language Data"
+  },
+  {
+    "columnCode": 10,
+    "columnName": "Marathi",
+    "responseType": "Language Data"
+  },
+  {
+    "columnCode": 11,
+    "columnName": "Japanese",
+    "responseType": "Language Data"
+  },
+  {
+    "columnCode": 12,
+    "columnName": "Turkish",
+    "responseType": "Language Data"
+  },
+  {
+    "columnCode": 13,
+    "columnName": "Korean",
+    "responseType": "Language Data"
+  },
+  {
+    "columnCode": 14,
+    "columnName": "French",
+    "responseType": "Language Data"
+  },
+  {
+    "columnCode": 15,
+    "columnName": "Gujarati",
+    "responseType": "Language Data"
+  },
+  {
+    "columnCode": 16,
+    "columnName": "Bhojpuri",
+    "responseType": "Language Data"
+  },
+  {
+    "columnCode": 17,
+    "columnName": "Kannada",
+    "responseType": "Language Data"
+  },
+  {
+    "columnCode": 18,
+    "columnName": "Odia",
+    "responseType": "Language Data"
+  },
+  {
+    "columnCode": 19,
+    "columnName": "Moroccan Arabic",
+    "responseType": "Language Data"
+  },
+  {
+    "columnCode": 20,
+    "columnName": "Algerian Arabic",
+    "responseType": "Language Data"
+  },
+  {
+    "columnCode": 21,
+    "columnName": "Sudanese Arabic",
+    "responseType": "Language Data"
+  },
+  {
+    "columnCode": 22,
+    "columnName": "Eastern Punjabi",
+    "responseType": "Language Data"
+  },
+  {
+    "columnCode": 23,
+    "columnName": "Dutch",
+    "responseType": "Language Data"
+  },
+  {
+    "columnCode": 24,
+    "columnName": "Somali",
+    "responseType": "Language Data"
+  },
+  {
+    "columnCode": 25,
+    "columnName": "Nepali",
+    "responseType": "Language Data"
+  },
+  {
+    "columnCode": 26,
+    "columnName": "Mesopotamian Arabic",
+    "responseType": "Language Data"
+  },
+  {
+    "columnCode": 27,
+    "columnName": "Greek",
+    "responseType": "Language Data"
+  },
+  {
+    "columnCode": 28,
+    "columnName": "Hungarian",
+    "responseType": "Language Data"
+  },
+  {
+    "columnCode": 29,
+    "columnName": "Deccan",
+    "responseType": "Language Data"
+  },
+  {
+    "columnCode": 30,
+    "columnName": "Tunisian Arabic",
+    "responseType": "Language Data"
+  },
+  {
+    "columnCode": 31,
+    "columnName": "Zulu",
+    "responseType": "Language Data"
+  },
+  {
+    "columnCode": 32,
+    "columnName": "Romanian",
+    "responseType": "Language Data"
+  },
+  {
+    "columnCode": 33,
+    "columnName": "Sindhi",
+    "responseType": "Language Data"
+  },
+  {
+    "columnCode": 34,
+    "columnName": "Portuguese",
+    "responseType": "Language Data"
+  },
+  {
+    "columnCode": 35,
+    "columnName": "Vietnamese",
+    "responseType": "Language Data"
+  },
+  {
+    "columnCode": 36,
+    "columnName": "Singhaleese",
+    "responseType": "Language Data"
+  }
+]

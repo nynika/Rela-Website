@@ -1,0 +1,30 @@
+@media (max-width: 990px) {
+  .none {
+    display: none;
+    visibility: hidden;
+  }
+  .mobile-container{
+    display: flex;
+    align-items: center;
+    /* align-content: center;
+    justify-content: center; */
+    gap:50px;
+    width:100%;
+}
+   
+    .nav-bar{
+        flex-direction: column;
+    }
+}
+@media (min-width: 990px){
+  .mobile-logo{
+    display: none;
+    visibility: hidden;
+  }
+}
+@media (max-width:1400px){
+   
+    input {
+        width: 200px;
+    }
+}

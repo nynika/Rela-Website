@@ -1,0 +1,112 @@
+[
+  {
+    "countryID": 101,
+    "countryName": "INDIA",
+    "countrySHCode": null
+  },
+  {
+    "countryID": 18,
+    "countryName": "BAHRAIN",
+    "countrySHCode": null
+  },
+  {
+    "countryID": 19,
+    "countryName": "BANGLADESH",
+    "countrySHCode": null
+  },
+  {
+    "countryID": 31,
+    "countryName": "BRAZIL",
+    "countrySHCode": null
+  },
+  {
+    "countryID": 39,
+    "countryName": "CANADA",
+    "countrySHCode": null
+  },
+  {
+    "countryID": 104,
+    "countryName": "IRAQ",
+    "countrySHCode": null
+  },
+  {
+    "countryID": 112,
+    "countryName": "KENYA",
+    "countrySHCode": null
+  },
+  {
+    "countryID": 121,
+    "countryName": "LEBANON",
+    "countrySHCode": null
+  },
+  {
+    "countryID": 1,
+    "countryName": "MALAYSIA",
+    "countrySHCode": null
+  },
+  {
+    "countryID": 132,
+    "countryName": "MALDIVES",
+    "countrySHCode": null
+  },
+  {
+    "countryID": 148,
+    "countryName": "MYANMAR",
+    "countrySHCode": null
+  },
+  {
+    "countryID": 151,
+    "countryName": "NEPAL",
+    "countrySHCode": null
+  },
+  {
+    "countryID": 155,
+    "countryName": "NEW ZEALAND",
+    "countrySHCode": null
+  },
+  {
+    "countryID": 254,
+    "countryName": "NRI - SRILANKAN",
+    "countrySHCode": null
+  },
+  {
+    "countryID": 163,
+    "countryName": "OMAN",
+    "countrySHCode": null
+  },
+  {
+    "countryID": 176,
+    "countryName": "QATAR",
+    "countrySHCode": null
+  },
+  {
+    "countryID": 189,
+    "countryName": "SAUDI ARABIA",
+    "countrySHCode": null
+  },
+  {
+    "countryID": 198,
+    "countryName": "SOUTH AFRICA",
+    "countrySHCode": null
+  },
+  {
+    "countryID": 201,
+    "countryName": "SRI LANKA",
+    "countrySHCode": null
+  },
+  {
+    "countryID": 202,
+    "countryName": "SUDAN",
+    "countrySHCode": null
+  },
+  {
+    "countryID": 225,
+    "countryName": "UNITED ARAB EMIRATES",
+    "countrySHCode": null
+  },
+  {
+    "countryID": 238,
+    "countryName": "YEMEN",
+    "countrySHCode": null
+  }
+]

@@ -1,0 +1,582 @@
+[
+  {
+    "nationalityID": 13,
+    "nationalityName": "INDIAN"
+  },
+  {
+    "nationalityID": 152,
+    "nationalityName": "ABU DHABI"
+  },
+  {
+    "nationalityID": 24,
+    "nationalityName": "AFGHAN"
+  },
+  {
+    "nationalityID": 25,
+    "nationalityName": "AFGHAN"
+  },
+  {
+    "nationalityID": 26,
+    "nationalityName": "ALBANIAN"
+  },
+  {
+    "nationalityID": 27,
+    "nationalityName": "ALGERIAN"
+  },
+  {
+    "nationalityID": 10,
+    "nationalityName": "AMERICAN"
+  },
+  {
+    "nationalityID": 28,
+    "nationalityName": "ARGENTINE"
+  },
+  {
+    "nationalityID": 29,
+    "nationalityName": "ARGENTINIAN"
+  },
+  {
+    "nationalityID": 12,
+    "nationalityName": "AUSTRALIAN"
+  },
+  {
+    "nationalityID": 30,
+    "nationalityName": "AUSTRIAN"
+  },
+  {
+    "nationalityID": 119,
+    "nationalityName": "BAHRAIN"
+  },
+  {
+    "nationalityID": 2,
+    "nationalityName": "BANGLADESHI"
+  },
+  {
+    "nationalityID": 31,
+    "nationalityName": "BATSWANA"
+  },
+  {
+    "nationalityID": 32,
+    "nationalityName": "BELGIAN"
+  },
+  {
+    "nationalityID": 156,
+    "nationalityName": "Bjivouti"
+  },
+  {
+    "nationalityID": 33,
+    "nationalityName": "BOLIVIAN"
+  },
+  {
+    "nationalityID": 34,
+    "nationalityName": "BRAZILIAN"
+  },
+  {
+    "nationalityID": 35,
+    "nationalityName": "BRITISH"
+  },
+  {
+    "nationalityID": 22,
+    "nationalityName": "BRUNEIAN"
+  },
+  {
+    "nationalityID": 36,
+    "nationalityName": "BULGARIAN"
+  },
+  {
+    "nationalityID": 16,
+    "nationalityName": "CAMBODIAN"
+  },
+  {
+    "nationalityID": 37,
+    "nationalityName": "CAMEROONIAN"
+  },
+  {
+    "nationalityID": 9,
+    "nationalityName": "CANADIAN"
+  },
+  {
+    "nationalityID": 162,
+    "nationalityName": "cesk / czech"
+  },
+  {
+    "nationalityID": 38,
+    "nationalityName": "CHILEAN"
+  },
+  {
+    "nationalityID": 21,
+    "nationalityName": "CHINESE"
+  },
+  {
+    "nationalityID": 39,
+    "nationalityName": "COLOMBIAN"
+  },
+  {
+    "nationalityID": 40,
+    "nationalityName": "COSTA RICAN"
+  },
+  {
+    "nationalityID": 41,
+    "nationalityName": "CROATIAN"
+  },
+  {
+    "nationalityID": 42,
+    "nationalityName": "CUBAN"
+  },
+  {
+    "nationalityID": 43,
+    "nationalityName": "CZECH"
+  },
+  {
+    "nationalityID": 44,
+    "nationalityName": "DANISH"
+  },
+  {
+    "nationalityID": 45,
+    "nationalityName": "DOMINICAN"
+  },
+  {
+    "nationalityID": 46,
+    "nationalityName": "DUTCH"
+  },
+  {
+    "nationalityID": 47,
+    "nationalityName": "ECUADORIAN"
+  },
+  {
+    "nationalityID": 48,
+    "nationalityName": "EGYPTIAN"
+  },
+  {
+    "nationalityID": 49,
+    "nationalityName": "EMIRATI"
+  },
+  {
+    "nationalityID": 20,
+    "nationalityName": "ENGLISH"
+  },
+  {
+    "nationalityID": 50,
+    "nationalityName": "ESTONIAN"
+  },
+  {
+    "nationalityID": 51,
+    "nationalityName": "ETHIOPIAN"
+  },
+  {
+    "nationalityID": 19,
+    "nationalityName": "EUROPEAN"
+  },
+  {
+    "nationalityID": 52,
+    "nationalityName": "FIJIAN"
+  },
+  {
+    "nationalityID": 4,
+    "nationalityName": "FILIPINO"
+  },
+  {
+    "nationalityID": 53,
+    "nationalityName": "FINNISH"
+  },
+  {
+    "nationalityID": 54,
+    "nationalityName": "FRENCH"
+  },
+  {
+    "nationalityID": 17,
+    "nationalityName": "GERMAN"
+  },
+  {
+    "nationalityID": 55,
+    "nationalityName": "GHANAIAN"
+  },
+  {
+    "nationalityID": 56,
+    "nationalityName": "GREEK"
+  },
+  {
+    "nationalityID": 57,
+    "nationalityName": "GUATEMALAN"
+  },
+  {
+    "nationalityID": 58,
+    "nationalityName": "HAITIAN"
+  },
+  {
+    "nationalityID": 59,
+    "nationalityName": "HONDURAN"
+  },
+  {
+    "nationalityID": 60,
+    "nationalityName": "HUNGARIAN"
+  },
+  {
+    "nationalityID": 61,
+    "nationalityName": "ICELANDIC"
+  },
+  {
+    "nationalityID": 5,
+    "nationalityName": "INDONESIAN"
+  },
+  {
+    "nationalityID": 62,
+    "nationalityName": "IRANIAN"
+  },
+  {
+    "nationalityID": 63,
+    "nationalityName": "IRAQI"
+  },
+  {
+    "nationalityID": 120,
+    "nationalityName": "IRELAND"
+  },
+  {
+    "nationalityID": 64,
+    "nationalityName": "IRISH"
+  },
+  {
+    "nationalityID": 65,
+    "nationalityName": "ISRAELI"
+  },
+  {
+    "nationalityID": 66,
+    "nationalityName": "ITALIAN"
+  },
+  {
+    "nationalityID": 67,
+    "nationalityName": "JAMAICAN"
+  },
+  {
+    "nationalityID": 11,
+    "nationalityName": "JAPANESE"
+  },
+  {
+    "nationalityID": 68,
+    "nationalityName": "JORDANIAN"
+  },
+  {
+    "nationalityID": 150,
+    "nationalityName": "KAZAKHSTAN"
+  },
+  {
+    "nationalityID": 69,
+    "nationalityName": "KENYAN"
+  },
+  {
+    "nationalityID": 157,
+    "nationalityName": "Kingdom of the Netherland"
+  },
+  {
+    "nationalityID": 23,
+    "nationalityName": "KOREAN"
+  },
+  {
+    "nationalityID": 70,
+    "nationalityName": "KUWAITI"
+  },
+  {
+    "nationalityID": 71,
+    "nationalityName": "LAO"
+  },
+  {
+    "nationalityID": 72,
+    "nationalityName": "LATVIAN"
+  },
+  {
+    "nationalityID": 73,
+    "nationalityName": "LEBANESE"
+  },
+  {
+    "nationalityID": 74,
+    "nationalityName": "LIBYAN"
+  },
+  {
+    "nationalityID": 75,
+    "nationalityName": "LITHUANIAN"
+  },
+  {
+    "nationalityID": 1,
+    "nationalityName": "MALAYSIAN"
+  },
+  {
+    "nationalityID": 139,
+    "nationalityName": "MALDIVES"
+  },
+  {
+    "nationalityID": 76,
+    "nationalityName": "MALIAN"
+  },
+  {
+    "nationalityID": 77,
+    "nationalityName": "MALTESE"
+  },
+  {
+    "nationalityID": 121,
+    "nationalityName": "MAURITIANS"
+  },
+  {
+    "nationalityID": 78,
+    "nationalityName": "MEXICAN"
+  },
+  {
+    "nationalityID": 79,
+    "nationalityName": "MONGOLIAN"
+  },
+  {
+    "nationalityID": 80,
+    "nationalityName": "MOROCCAN"
+  },
+  {
+    "nationalityID": 81,
+    "nationalityName": "MOZAMBICAN"
+  },
+  {
+    "nationalityID": 8,
+    "nationalityName": "MYANMARI"
+  },
+  {
+    "nationalityID": 82,
+    "nationalityName": "NAMIBIAN"
+  },
+  {
+    "nationalityID": 14,
+    "nationalityName": "NEPALESE"
+  },
+  {
+    "nationalityID": 151,
+    "nationalityName": "New York"
+  },
+  {
+    "nationalityID": 83,
+    "nationalityName": "NEW ZEALAND"
+  },
+  {
+    "nationalityID": 84,
+    "nationalityName": "NICARAGUAN"
+  },
+  {
+    "nationalityID": 85,
+    "nationalityName": "NIGERIAN"
+  },
+  {
+    "nationalityID": 86,
+    "nationalityName": "NORWEGIAN"
+  },
+  {
+    "nationalityID": 160,
+    "nationalityName": "NRI  CANADA"
+  },
+  {
+    "nationalityID": 158,
+    "nationalityName": "NRI  INDONESIA"
+  },
+  {
+    "nationalityID": 154,
+    "nationalityName": "NRI - AUSTRALIA"
+  },
+  {
+    "nationalityID": 159,
+    "nationalityName": "NRI - BANGLADESH"
+  },
+  {
+    "nationalityID": 153,
+    "nationalityName": "NRI - NEPAL"
+  },
+  {
+    "nationalityID": 147,
+    "nationalityName": "NRI - SINGAPORE"
+  },
+  {
+    "nationalityID": 149,
+    "nationalityName": "NRI - SRILANKAN"
+  },
+  {
+    "nationalityID": 144,
+    "nationalityName": "NRI - TANZANIA"
+  },
+  {
+    "nationalityID": 146,
+    "nationalityName": "NRI - UK"
+  },
+  {
+    "nationalityID": 145,
+    "nationalityName": "NRI - US"
+  },
+  {
+    "nationalityID": 148,
+    "nationalityName": "NRI-MALAYSIAN"
+  },
+  {
+    "nationalityID": 132,
+    "nationalityName": "OMAN"
+  },
+  {
+    "nationalityID": 7,
+    "nationalityName": "OTHERS"
+  },
+  {
+    "nationalityID": 15,
+    "nationalityName": "PAKISTANI"
+  },
+  {
+    "nationalityID": 161,
+    "nationalityName": "PALESTINIAN TERRITORY"
+  },
+  {
+    "nationalityID": 87,
+    "nationalityName": "PANAMANIAN"
+  },
+  {
+    "nationalityID": 88,
+    "nationalityName": "PARAGUAYAN"
+  },
+  {
+    "nationalityID": 89,
+    "nationalityName": "PERUVIAN"
+  },
+  {
+    "nationalityID": 90,
+    "nationalityName": "PHILIPPINE"
+  },
+  {
+    "nationalityID": 91,
+    "nationalityName": "POLISH"
+  },
+  {
+    "nationalityID": 92,
+    "nationalityName": "PORTUGUESE"
+  },
+  {
+    "nationalityID": 135,
+    "nationalityName": "QATAR"
+  },
+  {
+    "nationalityID": 93,
+    "nationalityName": "ROMANIAN"
+  },
+  {
+    "nationalityID": 94,
+    "nationalityName": "RUSSIAN"
+  },
+  {
+    "nationalityID": 95,
+    "nationalityName": "SALVADORIAN"
+  },
+  {
+    "nationalityID": 96,
+    "nationalityName": "SAUDI"
+  },
+  {
+    "nationalityID": 97,
+    "nationalityName": "SCOTTISH"
+  },
+  {
+    "nationalityID": 98,
+    "nationalityName": "SENEGALESE"
+  },
+  {
+    "nationalityID": 99,
+    "nationalityName": "SERBIAN"
+  },
+  {
+    "nationalityID": 18,
+    "nationalityName": "SINGAPOREAN"
+  },
+  {
+    "nationalityID": 100,
+    "nationalityName": "SLOVAK"
+  },
+  {
+    "nationalityID": 136,
+    "nationalityName": "SOMALIA"
+  },
+  {
+    "nationalityID": 101,
+    "nationalityName": "SOUTH AFRICAN"
+  },
+  {
+    "nationalityID": 102,
+    "nationalityName": "SPANISH"
+  },
+  {
+    "nationalityID": 103,
+    "nationalityName": "SRI LANKAN"
+  },
+  {
+    "nationalityID": 104,
+    "nationalityName": "SUDANESE"
+  },
+  {
+    "nationalityID": 105,
+    "nationalityName": "SWEDISH"
+  },
+  {
+    "nationalityID": 106,
+    "nationalityName": "SWISS"
+  },
+  {
+    "nationalityID": 107,
+    "nationalityName": "SYRIAN"
+  },
+  {
+    "nationalityID": 108,
+    "nationalityName": "TAIWANESE"
+  },
+  {
+    "nationalityID": 109,
+    "nationalityName": "TAJIKISTANI"
+  },
+  {
+    "nationalityID": 137,
+    "nationalityName": "TANZANIA"
+  },
+  {
+    "nationalityID": 3,
+    "nationalityName": "THAI"
+  },
+  {
+    "nationalityID": 110,
+    "nationalityName": "TONGAN"
+  },
+  {
+    "nationalityID": 111,
+    "nationalityName": "TUNISIAN"
+  },
+  {
+    "nationalityID": 112,
+    "nationalityName": "TURKISH"
+  },
+  {
+    "nationalityID": 113,
+    "nationalityName": "UKRAINIAN"
+  },
+  {
+    "nationalityID": 114,
+    "nationalityName": "URUGUAYAN"
+  },
+  {
+    "nationalityID": 115,
+    "nationalityName": "VENEZUELAN"
+  },
+  {
+    "nationalityID": 6,
+    "nationalityName": "VIETNAMESE"
+  },
+  {
+    "nationalityID": 116,
+    "nationalityName": "WELSH"
+  },
+  {
+    "nationalityID": 138,
+    "nationalityName": "YEMEN"
+  },
+  {
+    "nationalityID": 117,
+    "nationalityName": "ZAMBIAN"
+  },
+  {
+    "nationalityID": 118,
+    "nationalityName": "ZIMBABWEAN"
+  }
+]
