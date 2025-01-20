@@ -1,0 +1,46 @@
+.width2 {
+  width: 90%;
+  margin: auto;
+}
+.button {
+  width: 50px;
+  margin: auto;
+  text-align: center;
+}
+.margin-bottom {
+  margin-bottom: 10px;
+}
+.margin-bottom2 {
+  margin-bottom: 150px;
+}
+.label-width {
+  width: 50%;
+}
+/* .relative2{
+  position: relative
+}
+.absolute2{
+  position: absolute;
+  right: 500px;
+} */
+tr,
+th,
+td {
+  padding: 10px;
+  font-weight: 600;
+  /* border: 1px solid black */
+}
+td {
+  width: 40%;
+  color:#f3a01c
+}
+th {
+  font-weight: 700;
+}
+table {
+  margin: 20px auto 0px auto;
+  width: auto;
+}
+.color {
+  color: #f3a01c;
+}

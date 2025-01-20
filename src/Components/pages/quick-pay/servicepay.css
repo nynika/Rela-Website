@@ -1,0 +1,198 @@
+/* General Quick Pay Styling */
+.quick-pay {
+  width: 90vw;
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  margin: 70px auto 0;
+  overflow-x: auto;
+}
+
+.spinner-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(255, 255, 255, 0.7);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1000;
+}
+
+.spinner {
+  border: 8px solid #f3f3f3;
+  border-top: 8px solid #3498db;
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+  animation: spin 1s linear infinite;
+}
+
+.quick-pay-container {
+  margin-top: 20px;
+  border: 1px solid #7e7c73;
+  border-radius: 10px;
+  padding: 20px;
+  overflow-x: auto;
+}
+
+.quick-pay-title {
+  font-size: 1.5em;
+  margin-bottom: 10px;
+  color: #333;
+}
+
+.quick-pay-form-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+  margin-bottom: 15px;
+  align-items: center;
+}
+
+.quick-pay .form-input-container input,
+.quick-pay .form-input-container select {
+  width: 200px;
+  max-width: 100%;
+  padding: 8px;
+  font-size: 14px;
+  box-sizing: border-box;
+}
+
+.quick-pay-button-row {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 15px;
+}
+
+.quick-pay-table-row {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+@keyframes spin {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+/* Responsive Design */
+
+/* Mobile View */
+@media only screen and (max-width: 768px) {
+  .quick-pay {
+    width: 100%;
+    padding: 15px;
+  }
+
+  .quick-pay-form-row {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 10px;
+  }
+
+  .quick-pay .form-input-container input,
+  .quick-pay .form-input-container select {
+    width: 100%;
+  }
+
+  .quick-pay-button-row {
+    justify-content: flex-start;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  .quick-pay-title {
+    font-size: 1.2em;
+  }
+
+  .quick-pay-container {
+    padding: 10px;
+    border-radius: 8px;
+  }
+
+  .quick-pay-table-row {
+    gap: 10px;
+  }
+
+  .quick-pay-container,
+  .quickpay-table-container {
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+  }
+}
+
+/* Tablet View */
+@media only screen and (max-width: 1024px) {
+  .quick-pay {
+    width: 85vw;
+    padding: 20px;
+  }
+
+  .quick-pay-form-row {
+    flex-direction: column;
+    gap: 15px;
+  }
+
+  .quick-pay .form-input-container input,
+  .quick-pay .form-input-container select {
+    width: 200px;
+  }
+
+  .quick-pay-button-row {
+    justify-content: flex-end;
+    gap: 15px;
+  }
+
+  .quick-pay-title {
+    font-size: 1.4em;
+  }
+
+  .quick-pay-container {
+    padding: 15px;
+  }
+
+  .quick-pay-table-row {
+    gap: 12px;
+  }
+
+  .quick-pay-container,
+  .quickpay-table-container {
+    overflow-x: auto;
+  }
+}
+fieldset {
+  border: 2px solid #007bff; /* Matches the primary theme color */
+  padding: 20px; /* Matches the 'p-4' spacing */
+  border-radius: 8px; /* Rounded corners */
+  margin: 10px 0; /* Adds spacing around the fieldset */
+  background-color: #f9f9f9; /* Light background for contrast */
+}
+
+/* Legend Styling */
+legend {
+  float: none;
+  width: auto;
+  padding: 0 10px; /* Matches 'px-2' */
+  font-size: 18px; /* Slightly larger text */
+  color: #007bff; /* Text color matches primary */
+  font-weight: bold; /* Emphasize the legend text */
+}
+
+/* Optional: Add focus/hover effects for accessibility */
+/* fieldset:focus-within {
+  border-color: #0056b3;
+  background-color: #eef6ff;
+} */
+
+legend:hover {
+  text-decoration: underline; /* Optional hover effect for the legend */
+}

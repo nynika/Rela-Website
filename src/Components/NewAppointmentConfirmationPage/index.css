@@ -1,0 +1,19 @@
+.width2 {
+  width: 90%;
+  margin: auto;
+}
+.button {
+  width: 50px;
+  margin: auto;
+  text-align: center;
+}
+
+.margin-bottom {
+  margin-bottom: 10px;
+}
+.margin-bottom2 {
+  margin-bottom: 150px;
+}
+.label-width {
+  width: 20%;
+}

@@ -1,0 +1,132 @@
+/** @format */
+.absolute1 {
+  margin: 0 !important;
+  position: absolute;
+  left: 20px;
+  font-size: 18px;
+  background-color: #fff;
+}
+
+.quickpay_input {
+  height: 40px;
+  width: 330px;
+  overflow: hidden;
+}
+
+input[type="number"]::-webkit-inner-spin-button,
+input[type="number"]::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  margin: 0;
+}
+
+.quickpay_label {
+  font-weight: 600;
+  white-space: nowrap;
+}
+.search-button1 {
+  background-color: #f3a01c;
+  color: #fff;
+  width: 100px;
+  height: 40px;
+  overflow: hidden;
+  text-align: center;
+}
+
+.primary2 {
+  position: absolute;
+  margin-right: 60px;
+  margin-left: 550px;
+  margin-top: -45px;
+}
+
+.btn-primary2 {
+  --bs-btn-color: #ffffff;
+  --bs-btn-bg: #f3a01c;
+  --bs-btn-border-color: #f3a01c;
+  --bs-btn-hover-color: #ffffff;
+  --bs-btn-hover-bg: #f3a01c;
+  --bs-btn-hover-border-color: #f3a01c;
+  --bs-btn-focus-shadow-rgb: 49, 132, 253;
+  --bs-btn-active-color: #ffffff;
+  --bs-btn-active-bg: #f3a01c;
+  --bs-btn-active-border-color: #f3a01c;
+  --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
+  --bs-btn-disabled-color: #ffffff;
+  --bs-btn-disabled-bg: #f3a01c;
+  --bs-btn-disabled-border-color: #f3a01c;
+}
+@media (min-width: 359px) {
+  input {
+    width: 300px;
+  }
+
+  .primary2 {
+    margin-right: 60px;
+    margin-left: 550px;
+    margin-top: -45px;
+  }
+}
+
+@media (max-width: 1200px) {
+  .input {
+    height: 40px;
+    width: 440px;
+    overflow: hidden;
+  }
+  .primary2 {
+    margin-right: 60px;
+    margin-left: 400px;
+    margin-top: -45px;
+  }
+}
+
+@media (max-width: 990px) {
+  .input {
+    height: 40px;
+    width: 440px;
+    overflow: hidden;
+  }
+  .primary2 {
+    margin-right: 60px;
+    margin-left: 300px;
+    margin-top: -45px;
+  }
+}
+@media (max-width: 495px) {
+  .input {
+    height: 40px;
+    width: 360px;
+    overflow: hidden;
+  }
+  .primary2 {
+    margin-right: 60px;
+    margin-left: 150px;
+    margin-top: -45px;
+  }
+}
+
+@media (max-width: 414px) {
+  .input {
+    width: 330px;
+    overflow: hidden;
+  }
+  .primary2 {
+    margin-right: 60px;
+    margin-left: 110px;
+    margin-top: -45px;
+  }
+}
+
+@media (max-width: 360px) {
+  .input {
+    width: 270px;
+    overflow: hidden;
+  }
+  .primary2 {
+    margin-right: 60px;
+    margin-left: 530px;
+    margin-top: -45px;
+  }
+}

@@ -1,0 +1,466 @@
+[
+  {
+    "salutations": [
+      {
+        "id": 19,
+        "salutations": "BABY"
+      },
+      {
+        "id": 22,
+        "salutations": "MASTER"
+      },
+      {
+        "id": 11,
+        "salutations": "MR"
+      },
+      {
+        "id": 12,
+        "salutations": "MS"
+      },
+      {
+        "id": 21,
+        "salutations": "MRS"
+      }
+    ]
+  },
+  {
+    "employementStatus": [
+      {
+        "id": 1,
+        "employementStatus": "DO NOT WANT TO DISCLOSE"
+      },
+      {
+        "id": 2,
+        "employementStatus": "CHILD"
+      },
+      {
+        "id": 3,
+        "employementStatus": "RETIRED"
+      },
+      {
+        "id": 4,
+        "employementStatus": "STUDENT"
+      },
+      {
+        "id": 5,
+        "employementStatus": "SELF EMPLOYEE"
+      },
+      {
+        "id": 6,
+        "employementStatus": "GOVERNMENT/PSU"
+      },
+      {
+        "id": 7,
+        "employementStatus": "PRIVATE SECTOR"
+      },
+      {
+        "id": 8,
+        "employementStatus": "UNEMPLOYED"
+      }
+    ]
+  },
+  {
+    "maritalStatus": [
+      {
+        "id": 1,
+        "maritalStatus": "DO NOT WANT TO DISCLOSE"
+      },
+      {
+        "id": 2,
+        "maritalStatus": "SINGLE"
+      },
+      {
+        "id": 3,
+        "maritalStatus": "MARRIED"
+      }
+    ]
+  },
+  {
+    "bloodGroups": [
+      {
+        "id": 0,
+        "bloodGroups": "DO NOT KNOW"
+      },
+      {
+        "id": 1,
+        "bloodGroups": "A+"
+      },
+      {
+        "id": 2,
+        "bloodGroups": "A-"
+      },
+      {
+        "id": 3,
+        "bloodGroups": "A1+"
+      },
+      {
+        "id": 4,
+        "bloodGroups": "A1-"
+      },
+      {
+        "id": 5,
+        "bloodGroups": "A1B+"
+      },
+      {
+        "id": 6,
+        "bloodGroups": "A1B-"
+      },
+      {
+        "id": 7,
+        "bloodGroups": "A2+"
+      },
+      {
+        "id": 8,
+        "bloodGroups": "A2-"
+      },
+      {
+        "id": 9,
+        "bloodGroups": "A2B+"
+      },
+      {
+        "id": 10,
+        "bloodGroups": "A2B-"
+      },
+      {
+        "id": 11,
+        "bloodGroups": "AB-"
+      },
+      {
+        "id": 12,
+        "bloodGroups": "AB+"
+      },
+      {
+        "id": 13,
+        "bloodGroups": "B+"
+      },
+      {
+        "id": 14,
+        "bloodGroups": "B-"
+      },
+      {
+        "id": 15,
+        "bloodGroups": "B1+"
+      },
+      {
+        "id": 16,
+        "bloodGroups": "B1-"
+      },
+      {
+        "id": 17,
+        "bloodGroups": "O+"
+      },
+      {
+        "id": 18,
+        "bloodGroups": "O-"
+      },
+      {
+        "id": 19,
+        "bloodGroups": "OH(Bombay)+"
+      },
+      {
+        "id": 20,
+        "bloodGroups": "OH(Bombay)-"
+      }
+    ]
+  },
+  {
+    "gender": [
+      {
+        "id": 1,
+        "gender": "MALE"
+      },
+      {
+        "id": 2,
+        "gender": "FEMALE"
+      },
+      {
+        "id": 3,
+        "gender": "THIRD GENDER"
+      }
+    ]
+  },
+  {
+    "nationality": [
+      {
+        "id": 1,
+        "nationality": "INDIAN"
+      }
+    ]
+  },
+  {
+    "emergencyContact": [
+      {
+        "id": 1,
+        "emergencyContact": "BROTHER/SISTER"
+      },
+      {
+        "id": 2,
+        "emergencyContact": "COLLEAGUE"
+      },
+      {
+        "id": 3,
+        "emergencyContact": "DAUGHTER/SON"
+      },
+      {
+        "id": 4,
+        "emergencyContact": "FATHER/MOTHER"
+      },
+      {
+        "id": 5,
+        "emergencyContact": "GUARDIAN"
+      },
+      {
+        "id": 6,
+        "emergencyContact": "HUSBAND/WIFE"
+      },
+      {
+        "id": 7,
+        "emergencyContact": "OTHERS"
+      }
+    ]
+  },
+  {
+    "idType": [
+      {
+        "id": 1,
+        "idType": "AADHAAR CARD"
+      },
+      {
+        "id": 2,
+        "idType": "PAN CARD"
+      },
+      {
+        "id": 3,
+        "idType": "VOTER ID"
+      },
+      {
+        "id": 4,
+        "idType": "DRIVING LICENCE"
+      },
+      {
+        "id": 5,
+        "idType": "PASSPORT NO"
+      },
+      {
+        "id": 6,
+        "idType": "POLICE/ARMY ID"
+      }
+    ]
+  },
+  {
+    "preferredLang": [
+      {
+        "id": 1,
+        "preferredLang": "TAMIL"
+      },
+      {
+        "id": 2,
+        "preferredLang": "ENGLISH"
+      },
+      {
+        "id": 3,
+        "preferredLang": "MALAYALAM"
+      },
+      {
+        "id": 4,
+        "preferredLang": "TELUGU"
+      },
+      {
+        "id": 5,
+        "preferredLang": "HINDI"
+      },
+      {
+        "id": 6,
+        "preferredLang": "ARABIC"
+      },
+      {
+        "id": 7,
+        "preferredLang": "SPANISH"
+      },
+      {
+        "id": 8,
+        "preferredLang": "BENGALI"
+      },
+      {
+        "id": 9,
+        "preferredLang": "RUSSIAN"
+      },
+      {
+        "id": 10,
+        "preferredLang": "MARATHI"
+      },
+      {
+        "id": 11,
+        "preferredLang": "JAPANESE"
+      },
+      {
+        "id": 12,
+        "preferredLang": "TURKISH"
+      },
+      {
+        "id": 13,
+        "preferredLang": "KOREAN"
+      },
+      {
+        "id": 14,
+        "preferredLang": "FRENCH"
+      },
+      {
+        "id": 15,
+        "preferredLang": "GUJARATI"
+      },
+      {
+        "id": 16,
+        "preferredLang": "BHOJPURI"
+      },
+      {
+        "id": 17,
+        "preferredLang": "KANNADA"
+      },
+      {
+        "id": 18,
+        "preferredLang": "ODIA"
+      },
+      {
+        "id": 19,
+        "preferredLang": "MOROCCAN ARABIC"
+      },
+      {
+        "id": 20,
+        "preferredLang": "ALGERAIN ARABIC"
+      },
+      {
+        "id": 21,
+        "preferredLang": "SUDANESE ARABIC"
+      },
+      {
+        "id": 22,
+        "preferredLang": "EASTERN PUNJABI"
+      },
+      {
+        "id": 23,
+        "preferredLang": "DUTCH"
+      },
+      {
+        "id": 24,
+        "preferredLang": "SOMALI"
+      },
+      {
+        "id": 25,
+        "preferredLang": "NEPALI"
+      },
+      {
+        "id": 26,
+        "preferredLang": "MESOPOTAMIAN ARABIC"
+      },
+      {
+        "id": 27,
+        "preferredLang": "GREEK"
+      },
+      {
+        "id": 28,
+        "preferredLang": "HUNGARIAN"
+      },
+      {
+        "id": 29,
+        "preferredLang": "DECCAN"
+      },
+      {
+        "id": 30,
+        "preferredLang": "TUNISIAN ARABIC"
+      },
+      {
+        "id": 31,
+        "preferredLang": "ZULU"
+      },
+      {
+        "id": 32,
+        "preferredLang": "ROMANIAN"
+      },
+      {
+        "id": 33,
+        "preferredLang": "SINDHI"
+      },
+      {
+        "id": 34,
+        "preferredLang": "PORTUGESE"
+      },
+      {
+        "id": 35,
+        "preferredLang": "VIETNAMESE"
+      },
+      {
+        "id": 36,
+        "preferredLang": "SINGHALEESE"
+      }
+    ]
+  },
+  {
+    "religionData": [
+      {
+        "id": 1,
+        "religionData": "DO NOT WANT TO DISCLOSE"
+      },
+      {
+        "id": 2,
+        "religionData": "BUDDHISM"
+      },
+      {
+        "id": 3,
+        "religionData": "CHRISTIANITY"
+      },
+      {
+        "id": 4,
+        "religionData": "HINDUISM"
+      },
+      {
+        "id": 5,
+        "religionData": "ISLAM"
+      },
+      {
+        "id": 6,
+        "religionData": "JAINISM"
+      },
+      {
+        "id": 7,
+        "religionData": "JUDAISM"
+      },
+      {
+        "id": 8,
+        "religionData": "SIKHISM"
+      }
+    ]
+  },
+  {
+    "state": [
+      {
+        "id": 1,
+        "state": "Tamilnadu"
+      },
+      {
+        "id": 2,
+        "state": "Kerala"
+      },
+      {
+        "id": 3,
+        "state": "Andhra Pradhesh"
+      }
+    ]
+  },
+  {
+    "city": [
+      {
+        "id": 1,
+        "city": "Chennai"
+      },
+      {
+        "id": 2,
+        "city": "Kochi"
+      },
+      {
+        "id": 3,
+        "city": "Hyderabad"
+      }
+    ]
+  }
+]

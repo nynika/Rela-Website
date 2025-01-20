@@ -1,0 +1,146 @@
+.quickpay-table {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  margin-left: auto;
+  margin-right: auto;
+  overflow: auto;
+}
+
+.checkbox-pointer {
+  cursor: pointer;
+  margin-left: -50px;
+}
+
+.quickpay-table-container {
+  margin-top: 3vh;
+  margin-bottom: 6vh;
+  overflow: auto;
+
+  .no-data {
+    text-align: center;
+    font-style: italic;
+    font-weight: bold;
+    margin-top: 3vh;
+  }
+
+  .quickpay-table-outline {
+    width: 100%;
+    table-layout: fixed;
+    border-collapse: collapse;
+
+    th,
+    td {
+      text-align: center;
+      border: 0.2px solid white;
+    }
+
+    th {
+      background-color: #7e7c73;
+      color: white;
+      padding: 0.75em;
+    }
+
+    td {
+      color: black;
+      font-size: 13px;
+      padding: 0.5em;
+    }
+
+    tr:nth-child(even) {
+      background-color: #e0e0e0;
+    }
+
+    tr:hover {
+      background-color: #fdb777;
+    }
+
+    /* Top-left border-radius */
+    tr:first-child th:first-child {
+      border-top-left-radius: 10px;
+    }
+
+    /* Top-right border-radius */
+    tr:first-child th:last-child {
+      border-top-right-radius: 10px;
+    }
+
+    .new-invoice {
+      cursor: pointer;
+
+      .create-new-icon {
+        width: 1.5rem;
+        height: 1.5rem;
+      }
+    }
+  }
+}
+
+/* Responsive styling for mobile view */
+@media (max-width: 768px) {
+  .quickpay-table-container {
+    margin-top: 2vh;
+    margin-bottom: 4vh;
+  }
+
+  .checkbox-pointer {
+    cursor: pointer;
+    /* margin-left: -0px; */
+  }
+
+  .quickpay-table-outline {
+    font-size: 12px;
+
+    th,
+    td {
+      padding: 0.4em;
+    }
+
+    th {
+      font-size: 14px;
+    }
+
+    td {
+      font-size: 12px;
+    }
+  }
+
+  /* .checkbox-pointer {
+    margin-left: 0;
+  } */
+}
+
+/* Responsive styling for smaller screens (phones) */
+@media (max-width: 480px) {
+  .quickpay-table-container {
+    margin-top: 1vh;
+    margin-bottom: 2vh;
+  }
+
+  .checkbox-pointer {
+    cursor: pointer;
+    margin-left: -98px;
+  }
+
+  .quickpay-table-outline {
+    font-size: 10px;
+
+    th,
+    td {
+      padding: 0.3em;
+    }
+
+    th {
+      font-size: 12px;
+    }
+
+    td {
+      font-size: 10px;
+    }
+  }
+
+  .quickpay-table {
+    padding: 0 1rem; /* Add some padding around the table for small screens */
+  }
+}

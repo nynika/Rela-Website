@@ -1,0 +1,134 @@
+.appointment {
+  background-color: #f3a01c;
+  /* border: 1px solid #f3a01c; */
+  /* width: 370px; */
+  width: auto;
+  font-weight: 600;
+}
+.appointment:focus {
+  background-color: #f3a01c;
+  /* border: 1px solid #f3a01c; */
+}
+.appointment:active {
+  background-color: #f3a01c;
+  /* border: 1px solid #f3a01c; */
+}
+.appointment:hover {
+  background-color: #f3a01c;
+  /* border: 1px solid #f3a01c; */
+}
+.list_of_buttons {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  /* align-items: center; */
+}
+.image-buttons {
+  width: 40px;
+  height: 40px;
+}
+.btn-primary {
+  --bs-btn-color: #ffffff;
+  /* --bs-btn-bg: #f3a01c; */
+  --bs-btn-border-color: none;
+  --bs-btn-hover-color: #ffffff;
+  /* --bs-btn-hover-bg: #f3a01c; */
+  --bs-btn-hover-border-color: none;
+  --bs-btn-focus-shadow-rgb: 49, 132, 253;
+  --bs-btn-active-color: #ffffff;
+  /* --bs-btn-active-bg: #f3a01c; */
+  --bs-btn-active-border-color: none;
+  --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
+  --bs-btn-disabled-color: #ffffff;
+  /* --bs-btn-disabled-bg: #f3a01c; */
+  --bs-btn-disabled-border-color: none;
+  font-weight: 600;
+}
+.margin-top2 {
+  margin-top: 250px;
+}
+@media (max-width: 790px) {
+  .list_of_buttons {
+    flex-direction: column;
+  }
+  .margin-top0 {
+    margin-top: 0px;
+  }
+  .appointment {
+    width: 90%;
+  }
+}
+
+@media (max-width: 900px) {
+  .list_of_buttons {
+    flex-direction: column;
+  }
+  .margin-top0 {
+    margin-top: 0px;
+  }
+  .appointment {
+    /* width: auto; */
+    width: 90%;
+  }
+}
+
+@media (max-width: 500px) {
+  .list_of_buttons {
+    flex-direction: column;
+  }
+  .margin-top0 {
+    margin-top: 0px;
+  }
+  .appointment {
+    /* width: auto; */
+    width: 90%;
+  }
+}
+
+@media (max-width: 990px) {
+}
+
+@media (max-width: 990px) {
+  .margin-top2 {
+    margin-top: 200px;
+  }
+  .appointment {
+    /* width: auto; */
+    width: 300px;
+  }
+}
+@media (max-width: 495px) {
+  .margin-top2 {
+    margin-top: 150px;
+  }
+  .appointment {
+    width: 300px;
+  }
+}
+@media (max-width: 414px) {
+  .appointment {
+    /* width: auto; */
+    width: 90%;
+  }
+}
+@media (max-width: 360px) {
+  .appointment {
+    /* width: auto; */
+    width: 250px;
+  }
+  .text {
+    font-size: 11px;
+  }
+}
+@media (max-width: 300px) {
+  .appointment {
+    /* width: auto; */
+    width: 90%;
+  }
+}
+@media (max-width: 287px) {
+  .appointment {
+    /* width: auto; */
+    width: 90%;
+  }
+}

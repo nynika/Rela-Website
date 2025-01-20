@@ -1,0 +1,64 @@
+/** @format */
+
+.custom-button-container {
+  margin-left: 5px;
+  margin-top: 25px;
+
+  .custom-button {
+    min-width: 120px;
+
+    width: auto;
+    height: 35px;
+    font-size: 12px;
+    color: white;
+    text-transform: uppercase;
+    border: none;
+    cursor: pointer;
+    border-radius: 20px;
+  }
+
+  .custom-button-submit {
+    background-color: #f3a01c;
+
+    &:hover {
+      background-color: white;
+      color: #f3a01c;
+      border: 1px solid #f3a01c;
+      font-weight: bold;
+    }
+  }
+
+  .custom-button-normal {
+    background-color: #ff0000;
+
+    &:hover {
+      background-color: white;
+      color: #ff0000;
+      border: 1px solid #ff0000;
+      font-weight: bold;
+    }
+  }
+  .custom-button-clear {
+    background-color: white;
+    color: #ff0000;
+    border: 1px solid #ff0000;
+    &:hover {
+      background-color: #ff0000;
+      color: white;
+      border: 1px solid white;
+      font-weight: bold;
+    }
+  }
+
+  .custom-button-disabled {
+    background-color: #ffcf93;
+    cursor: default;
+  }
+}
+@media only screen and (max-width: 992px) {
+  .custom-button-container {
+    .custom-button {
+      min-width: 70px;
+    }
+  }
+}

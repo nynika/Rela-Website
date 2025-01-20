@@ -1,0 +1,22 @@
+/** @format */
+
+.custom-dropdown-container {
+  display: flex;
+  flex-direction: column;
+  // width: 100%;
+  margin: 5px 10px;
+
+  .rich-form-input {
+    height: 60px;
+  }
+  .form-label {
+    font-size: 16px;
+    color: #808080;
+  }
+  .long-form-input {
+    max-width: 100%;
+  }
+  .short-form-input {
+    width: 183px;
+  }
+}

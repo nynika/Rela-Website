@@ -1,0 +1,5 @@
+ history.pushState(null, null, document.URL);
+  window.addEventListener('popstate', function(event) {
+      history.pushState(null, null, document.URL);
+     alert("You're not allowed to go back at the time of registration.!")
+    });
